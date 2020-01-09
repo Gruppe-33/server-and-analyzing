@@ -1,0 +1,1 @@
+exports.textBodyParser = require('body-parser').text();
